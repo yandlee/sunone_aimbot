@@ -1,0 +1,1 @@
+libomp140.x86_64.dll添加进 C:\Users\yandle\Downloads\sunone_aimbot-main\venv\Lib\site-packages\torch\lib
