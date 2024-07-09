@@ -5,10 +5,7 @@
 [![License MIT](https://badgen.net/github/license/SunOner/sunone_aimbot)](https://github.com/SunOner/sunone_aimbot/blob/main/LICENSE)
 [![Github stars](https://img.shields.io/github/stars/SunOner/sunone_aimbot?color=ffb500)](https://github.com/SunOner/sunone_aimbot)
 [![Discord server](https://badgen.net/discord/online-members/sunone)](https://discord.gg/sunone)
-  <p>
-    <a href="https://github.com/SunOner/sunone_aimbot/releases" target="_blank">
-      <img width="75%" src="https://raw.githubusercontent.com/SunOner/sunone_aimbot/main/media/one.gif"></a>
-  </p>
+ 
 </div>
 
 ## Overview
